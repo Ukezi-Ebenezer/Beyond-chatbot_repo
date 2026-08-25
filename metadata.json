@@ -1,0 +1,6 @@
+{
+  "name": "Beyond Chatbots - AI Webinar Landing Page",
+  "description": "Conversion-focused landing page and registration system for the Beyond Chatbots webinar by AI Founders Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
